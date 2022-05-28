@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Manufacture Website",
+        "image": "https://raw.githubusercontent.com/kamrul-dev/watch-data/main/watch/watch1.png",
+        "description": "This is full-stack manufacture tools web application."
+    },
+    {
+        "id": 2,
+        "name": "Inventory-Management website",
+        "image": "https://raw.githubusercontent.com/kamrul-dev/watch-data/main/watch/watch2.png",
+        "description": "This project is a full-stack warehouse inventory management system website"
+    },
+    {
+        "id": 3,
+        "name": "Service Website",
+        "image": "https://raw.githubusercontent.com/kamrul-dev/watch-data/main/watch/watch3.png",
+        "description": "This project is an individual digital marketing service website"
+    }
+]
