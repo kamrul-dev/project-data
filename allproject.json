@@ -16,5 +16,11 @@
         "name": "Service Website",
         "image": "https://raw.githubusercontent.com/kamrul-dev/project-data/main/images/service.png",
         "description": "This project is an individual digital marketing service website"
+    },
+    {
+        "id": 4,
+        "name": "Phone Seeker Website",
+        "image": "https://raw.githubusercontent.com/kamrul-dev/project-data/main/images/phoneSeeker.png",
+        "description": "This project is for phone seeker, people can search the there diseired phone"
     }
 ]
