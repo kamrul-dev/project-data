@@ -1,20 +1,20 @@
 [
     {
         "id": 1,
-        "title": "Manufacture Website",
-        "image": "https://raw.githubusercontent.com/kamrul-dev/project-data/main/images/mediTools.png",
-        "description": "This is full-stack manufacture tools web application."
+        "title": "Firebase authentication setup",
+        "image": "https://raw.githubusercontent.com/kamrul-dev/project-data/main/images/blogs/conrtextapi.png",
+        "description": "Google firebase authentication setup with react js -Sign in with google..."
     },
     {
         "id": 2,
-        "name": "Inventory-Management website",
-        "image": "https://raw.githubusercontent.com/kamrul-dev/project-data/main/images/backPack.png",
-        "description": "This project is a full-stack warehouse inventory management system website"
+        "name": "Manage data in localStorage",
+        "image": "https://raw.githubusercontent.com/kamrul-dev/project-data/main/images/blogs/localStorage.png",
+        "description": "A localStorage is a property that allows JavaScript sites and apps to... "
     },
     {
         "id": 3,
-        "name": "Service Website",
-        "image": "https://raw.githubusercontent.com/kamrul-dev/project-data/main/images/service.png",
-        "description": "This project is an individual digital marketing service website"
+        "name": "Context-API and purpose for using it",
+        "image": "https://raw.githubusercontent.com/kamrul-dev/project-data/main/images/blogs/contextapi.png",
+        "description": "First of all we have to know about components. Conceptually components are..."
     }
 ]
