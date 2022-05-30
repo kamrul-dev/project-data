@@ -48,5 +48,15 @@
         "liveSite": "https://bd-watch-shop.netlify.app/",
         "clientCode": "https://github.com/kamrul-dev/bd-watch-shop",
         "serverCode": "#"
+    },
+    {
+        "id": 6,
+        "name": "Rest Countries Api",
+        "technology": "react",
+        "image": "https://raw.githubusercontent.com/kamrul-dev/project-data/main/images/react/restCountries.png",
+        "description": "This project is displaying all countries information using rest api...",
+        "liveSite": "https://react-rest-countries-dev.netlify.app/",
+        "clientCode": "https://github.com/kamrul-dev/react-rest-countries",
+        "serverCode": "#"
     }
 ]
