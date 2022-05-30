@@ -43,7 +43,7 @@
         "id": 5,
         "name": "BD Watch Shop Product",
         "technology": "react",
-        "image": "https://raw.githubusercontent.com/kamrul-dev/project-data/main/images/react/cryptoCafe.png",
+        "image": "https://raw.githubusercontent.com/kamrul-dev/project-data/main/images/react/bdWatchShop.png",
         "description": "This project is watch shop product where randomly product can be selected...",
         "liveSite": "https://bd-watch-shop.netlify.app/",
         "clientCode": "https://github.com/kamrul-dev/bd-watch-shop",
