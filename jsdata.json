@@ -18,5 +18,15 @@
         "liveSite": "https://insta-shohor-km.netlify.app/",
         "clientCode": "https://github.com/kamrul-dev/phone-seeker-app",
         "serverCode": "#"
+    },
+    {
+        "id": 3,
+        "name": "Money Savings Account",
+        "technology": "js",
+        "image": "https://raw.githubusercontent.com/kamrul-dev/project-data/main/images/js/moneySaving.png",
+        "description": "This Project is money savings account to calcualate expense cost, savings...",
+        "liveSite": "https://kamrul-dev.github.io/money-saving-account/",
+        "clientCode": "https://github.com/kamrul-dev/money-saving-account",
+        "serverCode": "#"
     }
 ]
