@@ -8,5 +8,15 @@
         "liveSite": "https://kamrul-dev.github.io/phone-seeker-app/",
         "clientCode": "https://github.com/kamrul-dev/phone-seeker-app",
         "serverCode": "#"
+    },
+    {
+        "id": 2,
+        "name": "Insta Shohor Project Debugging",
+        "technology": "js",
+        "image": "https://raw.githubusercontent.com/kamrul-dev/project-data/main/images/phoneSeeker.png",
+        "description": "This Project is instashohor where practiced for debugging...",
+        "liveSite": "https://insta-shohor-km.netlify.app/",
+        "clientCode": "https://github.com/kamrul-dev/phone-seeker-app",
+        "serverCode": "#"
     }
 ]
