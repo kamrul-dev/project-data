@@ -16,5 +16,11 @@
         "name": "Context-API and purpose for using it",
         "image": "https://raw.githubusercontent.com/kamrul-dev/project-data/main/images/blogs/contextapi.png",
         "description": "First of all we have to know about components. Conceptually components are..."
+    },
+    {
+        "id": 4,
+        "name": "How does JavaScript work",
+        "image": "https://raw.githubusercontent.com/kamrul-dev/project-data/main/images/blogs/jswork.png",
+        "description": "We know that JavaScript code runs on the browser. The browser has a..."
     }
 ]
