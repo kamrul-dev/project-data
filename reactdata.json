@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Manufacture Website",
+        "technology": "react",
+        "image": "https://raw.githubusercontent.com/kamrul-dev/project-data/main/images/mediTools.png",
+        "description": "This is full-stack manufacture tools web application.",
+        "liveSite": "https://medi-tools-manufacture.web.app/",
+        "clientCode": "https://github.com/kamrul-dev/manufacturer-website-client-side",
+        "serverCode": "https://github.com/kamrul-dev/manufacturer-website-server-side"
+    },
+    {
+        "id": 2,
+        "name": "Inventory-Management website",
+        "technology": "react",
+        "image": "https://raw.githubusercontent.com/kamrul-dev/project-data/main/images/backPack.png",
+        "description": "This project is a full-stack warehouse inventory management system website",
+        "liveSite": "https://backpack-warehouse.web.app/",
+        "clientCode": "https://github.com/kamrul-dev/warehouse-inventory-management-client",
+        "serverCode": "https://github.com/kamrul-dev/warehouse-inventory-management-server"
+    },
+    {
+        "id": 3,
+        "name": "Service Website",
+        "technology": "react",
+        "image": "https://raw.githubusercontent.com/kamrul-dev/project-data/main/images/service.png",
+        "description": "This project is an individual digital marketing service website",
+        "liveSite": "https://digital-marketer-b7be2.web.app/",
+        "clientCode": "https://github.com/kamrul-dev/digital-marketing-service",
+        "serverCode": "https://github.com/kamrul-dev/digital-marketing-service"
+    },
+    {
+        "id": 4,
+        "name": "Crypto Cafe Website",
+        "technology": "react",
+        "image": "https://raw.githubusercontent.com/kamrul-dev/project-data/main/images/react/cryptoCafe.png",
+        "description": "This project is crypto currency websitesite where all coins information...",
+        "liveSite": "https://crypto-cafe-starter.netlify.app/",
+        "clientCode": "https://github.com/kamrul-dev/crypto-cafe-starter",
+        "serverCode": "#"
+    }
+]

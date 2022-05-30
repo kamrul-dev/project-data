@@ -8,15 +8,5 @@
         "liveSite": "https://kamrul-dev.github.io/phone-seeker-app/",
         "clientCode": "https://github.com/kamrul-dev/phone-seeker-app",
         "serverCode": "#"
-    },
-    {
-        "id": 2,
-        "name": "Crypto Cafe Website",
-        "technology": "js",
-        "image": "https://raw.githubusercontent.com/kamrul-dev/project-data/main/images/js/cryptoCafe.png",
-        "description": "This project is crypto currency websitesite where all coins information...",
-        "liveSite": "https://crypto-cafe-starter.netlify.app/",
-        "clientCode": "https://github.com/kamrul-dev/crypto-cafe-starter",
-        "serverCode": "#"
     }
 ]
